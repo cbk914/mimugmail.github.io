@@ -1,6 +1,6 @@
-# mimugmail.github.io
+## Welcome to my unsorted OPNsense documentation!
 My OPNsense documentation bits
 
-####
-Test
-####
+
+# Contents
+
