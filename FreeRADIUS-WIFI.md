@@ -28,8 +28,11 @@ Here's an example of a WAP121 Cisco SMB AP:
 When you go to you clients just choose the network and you'll be prompted for User/PW. 
 Here are examples of Linux and Android (it's important to choose PEAP / MD5 / no certificate validation):
 
+Linux:
 ![Linux](/pictures/opn_freeradius_linux.jpg)
 
+
+Android:
 ![Android](/pictures/opn_freeradius_android.jpg)
 
 
