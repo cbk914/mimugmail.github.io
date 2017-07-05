@@ -9,3 +9,4 @@
 - Plugins
   - FreeRADIUS
     - [OpenVPN against local FreeRADIUS](FreeRADIUS-OpenVPN.md) 
+    - [WIFI against local FreeRADIUS](FreeRADIUS-WIFI.md) 
