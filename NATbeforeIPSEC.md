@@ -14,8 +14,6 @@ The packets match the SA and remote endpoints only see 10.0.0.0.
 In order to complete this step open your Phase2 for the corresponding tunnel and add 10.0.1.0/24 to "Manual SPD entries".
 This will create a new SPD redirecting packets from 10.0.1.0 to the tunnel. 
 
-![Phase2](/pictures/opn_ipsec_phase2.jpg)
-
 After this you have to create a One-to-one NAT hiding 10.0.1.0/24 to 10.0.0.0/24. 
 With this setup the remote end only sees e.g. 10.0.0.166 when your client 10.0.1.166 connects via tunnel.
 
